@@ -1,0 +1,16 @@
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Contracts.dll
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Entities.dll
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Contracts.pdb
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+D:\CompanyEmployees\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\CompanyEmployees\Repository\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml

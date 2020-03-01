@@ -1,0 +1,14 @@
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CopyComplete
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\CompanyEmployees\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\CompanyEmployees\Entities\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
